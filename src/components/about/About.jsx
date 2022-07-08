@@ -21,7 +21,7 @@ export default function About() {
 						aliquid facere, vel, vero adipisci omnis.
 					</p>
 				</div>
-				<Link to="products">
+				<Link exact to={"/products"}>
 					<button className="btn bg-main text-white fs-5 fw-bolder rounded-3">
 						Buy Our Products<i className="fa-solid fa-arrow-right ms-2"></i>
 					</button>
