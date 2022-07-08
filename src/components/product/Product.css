@@ -1,0 +1,9 @@
+article .filter {
+    transition: top .3s;
+}
+article:hover .filter {
+    top: 0 !important;
+}
+article .filter .filter-content {
+    z-index: 2;
+}

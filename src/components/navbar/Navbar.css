@@ -1,0 +1,9 @@
+.navbar {
+    transition: padding .3s;
+}
+.navbar-brand figure {
+    width: 5rem
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
