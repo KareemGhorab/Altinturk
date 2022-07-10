@@ -11,14 +11,17 @@
 	/* --color-sec-filter: rgba(156, 35, 66, .6); */
 
 	--color-main: rgb(27, 90, 126);
-	--color-main-filter: rgba(27, 90, 126, .6);
-
+	--color-main-filter: rgba(27, 90, 126, 0.6);
 
 	--color-sec: rgb(18, 60, 84);
-	--color-sec-filter: rgb(18, 60, 84, .6);;
+	--color-sec-filter: rgb(18, 60, 84, 0.6);
 	--font-main: "Abril Fatface", cursive;
 	--font-sec: "Roboto", sans-serif;
 }
+/* ::selection {
+	background-color: yellow;
+	color: #000;
+} */
 body {
 	font-family: var(--font-sec);
 }

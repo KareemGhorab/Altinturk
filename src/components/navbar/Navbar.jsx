@@ -5,13 +5,13 @@ import "./Navbar.css";
 import $ from "jquery/dist/jquery.min.js";
 
 export default function Navbar() {
-	const [navPadding, setNavPadding] = useState("p-0");
+	const [navPadding, setNavPadding] = useState("p-4");
 
 	useEffect(() => {
 		$(window).on("scroll", () => {
 			$(window).scrollTop() > 500
-				? setNavPadding("py-2")
-				: setNavPadding("py-0");
+				? setNavPadding("py-5")
+				: setNavPadding("py-4");
 		});
 	}, []);
 
