@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Altinturk/static/css/main.cd62d2ff.css",
-    "main.js": "/Altinturk/static/js/main.c2667475.js",
+    "main.js": "/Altinturk/static/js/main.d6f935a7.js",
     "static/media/fa-solid-900.ttf": "/Altinturk/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/hero.jpg": "/Altinturk/static/media/hero.571e78caa7f2c1fd3cd9.jpg",
     "static/media/fa-brands-400.ttf": "/Altinturk/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
@@ -28,10 +28,10 @@
     "static/media/fa-v4compatibility.woff2": "/Altinturk/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/Altinturk/index.html",
     "main.cd62d2ff.css.map": "/Altinturk/static/css/main.cd62d2ff.css.map",
-    "main.c2667475.js.map": "/Altinturk/static/js/main.c2667475.js.map"
+    "main.d6f935a7.js.map": "/Altinturk/static/js/main.d6f935a7.js.map"
   },
   "entrypoints": [
     "static/css/main.cd62d2ff.css",
-    "static/js/main.c2667475.js"
+    "static/js/main.d6f935a7.js"
   ]
 }
