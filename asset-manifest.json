@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Altinturk/static/css/main.634fafe9.css",
-    "main.js": "/Altinturk/static/js/main.66249716.js",
+    "main.css": "/Altinturk/static/css/main.cd62d2ff.css",
+    "main.js": "/Altinturk/static/js/main.c2667475.js",
     "static/media/fa-solid-900.ttf": "/Altinturk/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/hero.jpg": "/Altinturk/static/media/hero.571e78caa7f2c1fd3cd9.jpg",
     "static/media/fa-brands-400.ttf": "/Altinturk/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
@@ -23,16 +23,15 @@
     "static/media/404_gold_1.jpeg": "/Altinturk/static/media/404_gold_1.df1108922d81bfc70584.jpeg",
     "static/media/404_silver_1.jpeg": "/Altinturk/static/media/404_silver_1.ff82e75f608cf944bff3.jpeg",
     "static/media/fa-regular-400.ttf": "/Altinturk/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
-    "static/media/logo.jpeg": "/Altinturk/static/media/logo.eed7d2833655af1f0f6f.jpeg",
     "static/media/fa-regular-400.woff2": "/Altinturk/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
     "static/media/fa-v4compatibility.ttf": "/Altinturk/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
     "static/media/fa-v4compatibility.woff2": "/Altinturk/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/Altinturk/index.html",
-    "main.634fafe9.css.map": "/Altinturk/static/css/main.634fafe9.css.map",
-    "main.66249716.js.map": "/Altinturk/static/js/main.66249716.js.map"
+    "main.cd62d2ff.css.map": "/Altinturk/static/css/main.cd62d2ff.css.map",
+    "main.c2667475.js.map": "/Altinturk/static/js/main.c2667475.js.map"
   },
   "entrypoints": [
-    "static/css/main.634fafe9.css",
-    "static/js/main.66249716.js"
+    "static/css/main.cd62d2ff.css",
+    "static/js/main.c2667475.js"
   ]
 }
