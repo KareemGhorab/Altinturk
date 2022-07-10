@@ -29,7 +29,7 @@ export default function Footer() {
 								<h3 className="font-sec fw-bolder fs-2 mb-4">Follow Us</h3>
 								<div className="icons-container">
 									<a
-										href="https://facebook/com"
+										href="https://facebook.com"
 										className="text-white text-sec-hover me-5"
 										target="_blank"
 										rel="noreferrer"
@@ -37,7 +37,7 @@ export default function Footer() {
 										<i className="fa-brands fa-facebook-f fa-2x"></i>
 									</a>
 									<a
-										href="https://twitter/com"
+										href="https://twitter.com"
 										className="text-white text-sec-hover me-5"
 										target="_blank"
 										rel="noreferrer"
@@ -45,7 +45,7 @@ export default function Footer() {
 										<i className="fa-brands fa-twitter fa-2x"></i>
 									</a>
 									<a
-										href="https://instagram/com"
+										href="https://instagram.com"
 										className="text-white text-sec-hover me-5"
 										target="_blank"
 										rel="noreferrer"

@@ -1,8 +1,19 @@
 #main-header {
     min-height: 45rem;
+    position: relative;
+}
+
+#main-header .header-content {
+    position: absolute;
+    right: 5rem;
 }
 
 #main-header .header-content h1 {
     font-size: 6rem;
 }
 
+#main-header {
+    background-image: url(../../images/hero.jpg);
+    background-size: cover;
+    background-position: center center;
+}

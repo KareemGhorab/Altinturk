@@ -23,7 +23,6 @@ export default function About() {
 				</div>
 
 				<Link exact to={"/products"}>
-
 					<button className="btn bg-main text-white fs-5 fw-bolder rounded-3">
 						Buy Our Products<i className="fa-solid fa-arrow-right ms-2"></i>
 					</button>
