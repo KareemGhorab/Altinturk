@@ -7,7 +7,7 @@ export default function Header() {
 		<>
 			<header
 				id="main-header"
-				className="d-flex justify-content-center align-items-center text-white bg-main text-center"
+				className="d-flex justify-content-center align-items-center text-white bg-main text-center min-vh-100"
 			>
 				<div className="header-content">
 					<h1>Altinturk</h1>

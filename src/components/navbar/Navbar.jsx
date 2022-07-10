@@ -22,13 +22,14 @@ export default function Navbar() {
 			>
 				<div className="container">
 					<Link className="navbar-brand" to="home">
-						<figure>
+						{/* <figure>
 							<img
 								className="w-100"
 								src={require("../../images/logo.jpeg")}
 								alt="altinturk logo"
 							/>
-						</figure>
+						</figure> */}
+						<h1>Altinturk</h1>
 					</Link>
 					<button
 						className="navbar-toggler border-0 py-2 px-3 border-0 rounded bg-transparent"
